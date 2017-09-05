@@ -1,5 +1,5 @@
 # minirefresh
-测试
+
 [![](https://img.shields.io/badge/codestyle-eslint-brightgreen.svg)](https://eslint.org/)
 [![](https://img.shields.io/circleci/project/minirefresh/minirefresh/master.svg)](https://circleci.com/gh/minirefresh/minirefresh/tree/master)
 [![](https://img.shields.io/codecov/c/github/minirefresh/minirefresh/master.svg)](https://codecov.io/github/minirefresh/minirefresh?branch=master)
